@@ -33,7 +33,7 @@ public class crypt {
         }
         return encrypt_text;
     }
-//encrytp method
+
      String decrypt(String encrypt_text, String key)
     {
 
